@@ -1,1 +1,2 @@
 # VideoFileCombiner
+Uses ffmpeg.
